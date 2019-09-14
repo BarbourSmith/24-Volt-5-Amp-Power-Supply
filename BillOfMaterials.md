@@ -2,7 +2,7 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|name|0|$0.00|www.example.com|
-|Total: |0|$0.00| |
+|24Volt 5Amp Power Supply|1|$12.95|https://www.amazon.com/Superpower-Power-Adapter-Supply-Output/dp/B01CYIFOHE|
+|Total: |1|$12.95| |
 
- 3xCOG MSRP: $0.00
+ 3xCOG MSRP: $38.85
